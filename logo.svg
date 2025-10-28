@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Anel externo -->
+  <circle cx="128" cy="128" r="120" fill="#0D3B3A"/>
+  <circle cx="128" cy="128" r="104" fill="#2BB673"/>
+  <circle cx="128" cy="128" r="92" fill="#0D3B3A"/>
+
+  <!-- Globo (linhas) -->
+  <path d="M44 128h168" stroke="#EAF3EE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M128 44v168" stroke="#EAF3EE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M64 90c18-14 40-22 64-22s46 8 64 22" stroke="#EAF3EE" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M192 166c-18 14-40 22-64 22s-46-8-64-22" stroke="#EAF3EE" stroke-width="10" stroke-linecap="round" fill="none"/>
+
+  <!-- Símbolo folha -->
+  <path d="M128 106c-15 12-22 27-22 44 0 4 0 8 1 12h42c1-4 1-8 1-12 0-17-7-32-22-44z" fill="#2BB673"/>
+  <path d="M128 106c15 12 30 27 30 44 0 4 0 8-1 12h-29" fill="none" stroke="#EAF3EE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 106c-15 12-30 27-30 44 0 4 0 8 1 12h29" fill="none" stroke="#EAF3EE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Haste central da folha -->
+  <path d="M128 106v66" stroke="#EAF3EE" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Folhas laterais -->
+  <path d="M88 150c-10 6-18 14-22 24 14 4 29-1 40-10 5-4 9-9 12-14" fill="#2BB673"/>
+  <path d="M168 150c10 6 18 14 22 24-14 4-29-1-40-10-5-4-9-9-12-14" fill="#2BB673"/>
+</svg>
